@@ -3,7 +3,7 @@
     "is_admob_in_grid":true,
     "is_admob":true,
     "version":"PRODUCTION",
-    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/draw_3d/master/draw_3d_category.json",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/draw_3d/master/draw_3d_category_not_violation.json",
     "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/draw_3d/master/draw_3d_category_alpha.json",
     "admob_banner_id":"ca-app-pub-7073245300830974/2097908648",
     "admob_interstitial_id":"ca-app-pub-7073245300830974/3574641849",
