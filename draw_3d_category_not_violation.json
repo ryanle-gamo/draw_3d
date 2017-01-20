@@ -1,0 +1,309 @@
+{
+    "categories": [{
+                   "category_id": "3105",
+                   "category_name": "Objects #1",
+                   "category_thumbnail": "3105.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/draw_3d/master/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Impossible Heart",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Easy Optical Illusion",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Skyscrapers",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Penrose Triangle",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Impossible Star",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Geometry Shape",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "3D Hexagon",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Impossible Pentagon",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Impossible Cube",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Twisted Octagon",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Inseparable Illusion",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "3D Typography Illusion",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "3D Star Shape",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Love in 3D",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "3D Pyramid",
+                              "anime_step":8
+                              }
+                              ]
+                   },
+                   {
+                   "category_id": "3104",
+                   "category_name": "Objects #2",
+                   "category_thumbnail": "3104.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/draw_3d/master/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Beetle",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Box",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Bunny",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Butterfly",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Car",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Dolphin",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Face",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Frog",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Hatch",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Monster",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Redbul",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Scorpion",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Skull",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Snake",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Turtle",
+                              "anime_step":8
+                              }
+                              ]
+                   },
+                   {
+                   "category_id": "3103",
+                   "category_name": "Letters",
+                   "category_thumbnail": "3103.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/draw_3d/master/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "A",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "B",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "C",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "D",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "E",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "F",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "G",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "H",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "I",
+                              "anime_step":4
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "J",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "K",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "L",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "M",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "N",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "O",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "P",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Q",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "R",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "S",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "T",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "21",
+                              "anime_name": "U",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "22",
+                              "anime_name": "V",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "23",
+                              "anime_name": "W",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "24",
+                              "anime_name": "X",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "25",
+                              "anime_name": "Y",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "26",
+                              "anime_name": "Z",
+                              "anime_step":6
+                              }
+                              ]
+                   }]
+}
